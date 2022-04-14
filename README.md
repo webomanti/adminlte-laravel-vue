@@ -8,10 +8,10 @@
 <code>Clone this repository</code><br><br>
 <code>composer update</code><br><br>
 <code>copy .env.example .env</code><br><br>
+Edit .env before database migration
 <code>php artisan key:generate</code><br><br>
-<code>php artisan migrate</code><br><br>
-<code>php artisan serve --port=3000</code><br><br>
-now you can visit localhost:3000 and see the project
+<code>//php artisan migrate</code><br><br>
+<code>npm install</code><br><br>
 
 # 💡 Integrations
 
