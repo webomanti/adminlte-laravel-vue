@@ -8,7 +8,7 @@
 <code>Clone this repository</code><br><br>
 <code>composer update</code><br><br>
 <code>copy .env.example .env</code><br><br>
-Edit .env before database migration
+Edit .env before database migration<br><br>
 <code>php artisan key:generate</code><br><br>
 <code>//php artisan migrate</code><br><br>
 <code>npm install</code><br><br>
