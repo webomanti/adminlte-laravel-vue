@@ -7,7 +7,6 @@
 #### To run this project make sure you ran these commands
 <code>Clone this repository</code><br><br>
 <code>composer update</code><br><br>
-<code>cp .env.example .env</code><br><br>
 Edit .env before database migration<br><br>
 <code>php artisan key:generate</code><br><br>
 <code>//php artisan migrate</code><br><br>
